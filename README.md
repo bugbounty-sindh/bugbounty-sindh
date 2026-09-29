@@ -1,16 +1,25 @@
-## Hi there 👋
+# BugBounty Sindh 🏴
+### From Mehar, Sindh | Securing the World's Web from Sehwan
 
-<!--
-**bugbounty-sindh/bugbounty-sindh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Recon • Exploit • Disclose**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Assalam-o-Alaikum, I'm BugBounty Sindh
+
+**Bug Bounty Hunter | Security Researcher | Penetration Tester**
+- 📍 Based in **Mehar, Sindh, Pakistan**
+- 🎯 Building **SindhSecretHunter** - An All-in-One Security Scanner
+- 💻 Hunting on **HackerOne, Bugcrowd & Private Programs**
+
+---
+
+### 🛠️ My Live Security API - Built from Termux
+
+**API Endpoint:** `https://bugbounty-sindh-api.vercel.app`
+
+**Available Checks:**
+```bash
+/check/cors?url=https://example.com     # CORS Misconfiguration
+/check/headers?url=https://example.com   # Security Headers
+/check/status?url=https://example.com    # Status & Tech Stack
